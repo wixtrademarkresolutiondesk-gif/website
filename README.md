@@ -30,7 +30,8 @@ This is not a simulation. A live attack is underway. Hidden overlays may be inte
 <strong>Immediate action is required</strong> to protect your users and your reputation.</p>
 <div class="iframe-box">
   <div class="overlay">  Malicious Overlay Active</div>
-  <iframe src="https://www.heauxbagco.com"></iframe>
+  <iframe src="https://www.szabosarcades.com
+"></iframe>
 </div>
 <p><strong>Risk:</strong> Your website is exposed to hijacking, phishing, and unauthorized manipulation.<br>
 <strong>Recommended Action:</strong> Immediately implement security headers like <code>X-Frame-Options</code> or <code>Content-Security-Policy: frame-ancestors</code> to prevent unauthorized embedding.</p>
